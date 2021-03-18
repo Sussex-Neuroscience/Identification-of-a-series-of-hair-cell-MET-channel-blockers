@@ -1,8 +1,6 @@
 # Identification of a series of hair-cell MET channel blockers that protect against aminoglycoside-induced ototoxicity
 
 
-This repository contains supplemental data for the following article "Identification of a series of hair-cell MET channel blockers that protect against aminoglycoside-induced ototoxicity"
-
 Emma J Kenyon1*, Nerissa K Kirkwood1*, Siân R Kitcher1*, Richard J Goodyear1, Marco Derudas2, Daire M Cantillon3, Sarah Baxendale4, Antonio de la Vega de León5 , Virginia N Mahieu1, Richard T Osgood1, Charlotte Donald Wilson1, James C Bull6, Simon J Waddell3, Tanya T Whitfield4, Simon E Ward7, Corné J Kros1 and Guy P Richardson1. 
 
 1-Sussex Neuroscience, School of Life Sciences, University of Sussex, Brighton, BN1 9QG, UK  
@@ -18,3 +16,6 @@ S10 2TN, UK
 7-Medicines Discovery Institute, Cardiff University, Cardiff, CF10 3AT, UK  
 
 *These authors contributed equally to the work and are listed in alphabetical order
+
+
+#### This repository contains supplemental data for the following article "Identification of a series of hair-cell MET channel blockers that protect against aminoglycoside-induced ototoxicity"
