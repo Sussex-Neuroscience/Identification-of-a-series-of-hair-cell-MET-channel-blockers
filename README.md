@@ -17,5 +17,8 @@ S10 2TN, UK
 
 *These authors contributed equally to the work and are listed in alphabetical order
 
+---
 
-#### This repository contains supplemental data for the following article "Identification of a series of hair-cell MET channel blockers that protect against aminoglycoside-induced ototoxicity"
+
+
+### This repository contains supplemental data for the following article "Identification of a series of hair-cell MET channel blockers that protect against aminoglycoside-induced ototoxicity"
